@@ -1,3 +1,6 @@
-a=prompt("enter a");
-b=prompt("enter b");
-console.log(a+~b+1);
+var x = 21;
+function girl(){
+	console.log(x);
+	var x = 20;
+};
+girl()
